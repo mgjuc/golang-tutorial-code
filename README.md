@@ -1,0 +1,1 @@
+[GO Documentation Getting Started](https://go.dev/doc/)
